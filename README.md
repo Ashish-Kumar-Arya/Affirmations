@@ -1,5 +1,6 @@
 Final App screenshot-
-![Screenshot_20231130-183058_Affirmations (1)](https://github.com/Ashish-Kumar-Arya/Affirmations/assets/57569508/724b3b1e-a1e5-4b77-888b-4fa21675e0d7)
+![Screenshot_20231130-183058_Affirmations](https://github.com/Ashish-Kumar-Arya/Affirmations/assets/57569508/2dca0380-136e-4082-b87e-b3341f982b87)
+
 
 Affirmations App - Starter Code
 ================================
