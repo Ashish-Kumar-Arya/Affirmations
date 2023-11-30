@@ -1,3 +1,6 @@
+![Uploading Screenshot_20231130-183058_Affirmations.jpg…]()
+
+
 Affirmations App - Starter Code
 ================================
 
